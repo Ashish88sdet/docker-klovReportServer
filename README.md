@@ -2,8 +2,9 @@
 A Docker image implementation of Klov Report server for the ExtentReports API.
 
 ## Quick Start
-### Pull the below image:
+### Pull the Mongo image:
 docker pull mongo
+### Pull the klovServer image:
 docker pull ashish88jubl/klovreportserver:tagname
 
 ### Run an instance:
