@@ -1,4 +1,4 @@
-extentx:
+klov:
   build: .
   environment:
     - MONGODB_PORT_27017_TCP_ADDR=mongo 
